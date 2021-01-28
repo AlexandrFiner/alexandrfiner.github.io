@@ -1,0 +1,2 @@
+(this["webpackJsonpvk-coin-faucet"]=this["webpackJsonpvk-coin-faucet"]||[]).push([[4],{1421:function(t,a,c){"use strict";c.r(a);var i=c(1418),n=c(1419),s=c(1420);i.init(),i.add(n),i.add(s),a.default=i}}]);
+//# sourceMappingURL=4.21511afa.chunk.js.map
